@@ -69,6 +69,8 @@ class BinaryTree {
 
 //Approach-03
 //***********************************Iterative Solution*************************************
+
+//TIP: This approch will help to understand Iterative Inorder traversal faster.
 class BinaryTree {
     static ArrayList<Integer> preorder(Node root) {
 
