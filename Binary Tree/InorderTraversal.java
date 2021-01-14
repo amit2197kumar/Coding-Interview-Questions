@@ -18,6 +18,7 @@ class Node
 
 //Approach-01
 //***********************************Recursive Solution*************************************
+
 class Tree
 {
     // Return a list containing the inorder traversal of the given tree

@@ -18,6 +18,7 @@ class Node
 
 //Approach-01
 //***********************************Recursive Solution*************************************
+
 class BinaryTree {
     static ArrayList<Integer> preorder(Node root) {
         ArrayList<Integer> arrayList = new ArrayList<>();
@@ -40,6 +41,7 @@ class BinaryTree {
 
 //Approach-02
 //***********************************Iterative Solution*************************************
+
 class BinaryTree {
     static ArrayList<Integer> preorder(Node root) {
 
