@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30ac8dc5-b179-4207-92da-2759261898c9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Tree/05. Count Leaves in Binary Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Tree/06. Connect Nodes of Binary Tree at Same Level.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binary Tree/01.PreorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Binary Tree/01. Preorder Traversal in a Binary Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binary Tree/02.InorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Binary Tree/02. Inorder Traversal  in a Binary Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binary Tree/03.PostorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Binary Tree/03. Postorder Traversal  in a Binary Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binary Tree/04.LevelOrderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Binary Tree/04. LevelOrder Traversal  in a Binary Tree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +57,7 @@
       <updated>1610621120892</updated>
       <workItem from="1610621132283" duration="4578000" />
       <workItem from="1610694162377" duration="852000" />
+      <workItem from="1610695392348" duration="1582000" />
     </task>
     <servers />
   </component>
@@ -61,6 +65,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="725" y="-644" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1610702292013">
+      <screen x="-81" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="725" y="-644" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/-81.-1080.1920.1080/0.0.1792.1120@-81.-1080.1920.1080" timestamp="1610702292013" />
     <state x="100" y="100" width="1592" height="920" key="DiffContextDialog" timestamp="1610631876255">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
