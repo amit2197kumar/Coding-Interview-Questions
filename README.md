@@ -1,8 +1,10 @@
-#Whatever it takes!!
+#Every time I start and stop after sometime, but i won't this time. Whatever it takes!!
 
 “Don’t live the same year 75 times and call it a life.” — Robin Sharma
 
 “A comfort zone is a beautiful place, but nothing ever grows there.” — Author Unknown
+
+“Who you are tomorrow begins with what you do today.” ― Tim Fargo
 
 “Dreams don’t work unless you do.” – John C. Maxwell
 
@@ -22,3 +24,10 @@
 
 “Numbing the pain for a while will only make it worse when you finally feel it.” — Albus Dumbledore
 
+“Do not fear failure but rather fear not trying.” ― Roy T. Bennett, The Light in the Heart
+
+“The one who falls and gets up is stronger than the one who never tried. Do not fear failure but rather fear not trying.” ― Roy T. Bennett
+
+“Failure is a destination for those who give up and success for those who keep trying.” ― Apoorve Dubey
+
+`Let's Try Again, before its too late!!` 
