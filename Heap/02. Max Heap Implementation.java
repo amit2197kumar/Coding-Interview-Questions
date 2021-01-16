@@ -84,17 +84,40 @@ public class MaxHeap {
     }
 
     // Function to heapify the node at index
-    public void maxHeapify(int index) {
+    // BELOW CODE WAS NOT WORKING FOR HEAP SORT: https://practice.geeksforgeeks.org/problems/operations-on-binary-min-heap/1
+    public void maxHeapify_NOT_TO_USE(int index) {
         if (!checkIsLeafNode(index)) {
             if (heap[index] < heap[getLeftChild(index)] || heap[index] < heap[getRightChild(index)]) {
                 if (heap[getLeftChild(index)] < heap[getRightChild(index)]) {
                     swapElements(index, getRightChild(index));
-                    maxHeapify(getRightChild(index));
+                    maxHeapify_NOT_TO_USE(getRightChild(index));
                 } else {
                     swapElements(index,getLeftChild(index));
-                    maxHeapify(getLeftChild(index));
+                    maxHeapify_NOT_TO_USE(getLeftChild(index));
                 }
             }
+        }
+    }
+
+    // Function to heapify the node at index
+    public void maxHeapify(int index) {
+        int largestIndex = index;  // Initialize largestIndex as root
+        int leftIndex = getLeftChild(index);  // left = 2*i + 1
+        int rightIndex = getRightChild(index);  // right = 2*i + 2
+
+        // if left child exists and has value greater then parent
+        if (leftIndex < heapCurrIndex && heap[leftIndex] > heap[largestIndex])
+            largestIndex = leftIndex;
+
+        // if right child exists and has value greater then parent
+        if (rightIndex < heapCurrIndex && heap[rightIndex] > heap[largestIndex])
+            largestIndex = rightIndex;
+
+        // If largestIndex is not root/parent
+        if (largestIndex != index)
+        {
+            swapElements(index, largestIndex);
+            maxHeapify(largestIndex); // recursively call Max heapify for largest variable
         }
     }
 
@@ -137,8 +160,9 @@ public class MaxHeap {
     // builds the max-heap using the maxHeapify()
     // Not been used in current Code, but if we are given an array and we need to make that a heap
     // then we will be using this function.
+    // This Function been used here: https://practice.geeksforgeeks.org/problems/heap-sort/1
     public void maxHeap() {
-        for (int index = ((heapCurrIndex - 1) / 2); index >= 1; index--) {
+        for (int index = heapCurrIndex/2-1 ; index >= 0; index--) {
             maxHeapify(index);
         }
     }

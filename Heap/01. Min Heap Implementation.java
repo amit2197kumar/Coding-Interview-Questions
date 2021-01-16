@@ -84,17 +84,40 @@ public class MinHeap {
     }
 
     // Function to heapify the node at index
-    public void minHeapify(int index) {
+    // BELOW CODE WAS NOT WORKING FOR HEAP SORT: https://practice.geeksforgeeks.org/problems/operations-on-binary-min-heap/1
+    public void minHeapify_NOT_TO_USE(int index) {
         if (!checkIsLeafNode(index)) {
             if (heap[index] > heap[getLeftChild(index)] || heap[index] > heap[getRightChild(index)]) {
                 if (heap[getLeftChild(index)] > heap[getRightChild(index)]) {
                     swapElements(index, getRightChild(index));
-                    minHeapify(getRightChild(index));
+                    minHeapify_NOT_TO_USE(getRightChild(index));
                 } else {
                     swapElements(index,getLeftChild(index));
-                    minHeapify(getLeftChild(index));
+                    minHeapify_NOT_TO_USE(getLeftChild(index));
                 }
             }
+        }
+    }
+
+    // Function to heapify the node at index
+    public void minHeapify(int index) {
+        int minimumIndex = index;  // Initialize largestIndex as root
+        int leftIndex = getLeftChild(index);  // left = 2*i + 1
+        int rightIndex = getRightChild(index);  // right = 2*i + 2
+
+        // if left child exists and has value smaller then parent
+        if (leftIndex < heapCurrIndex && heap[leftIndex] < heap[minimumIndex])
+            minimumIndex = leftIndex;
+
+        // if right child exists and has value smaller then parent
+        if (rightIndex < heapCurrIndex && heap[rightIndex] < heap[minimumIndex])
+            minimumIndex = rightIndex;
+
+        // If minimumIndex is not root/parent
+        if (minimumIndex != index)
+        {
+            swapElements(index, minimumIndex);
+            minHeapify(minimumIndex); // recursively call Min heapify for minimum variable
         }
     }
 
@@ -137,8 +160,9 @@ public class MinHeap {
     // builds the min-heap using the minHeapify()
     // Not been used in current Code, but if we are given an array and we need to make that a heap
     // then we will be using this function.
+    // This Function been used here: https://practice.geeksforgeeks.org/problems/heap-sort/1
     public void minHeap() {
-        for (int index = ((heapCurrIndex - 1) / 2); index >= 1; index--) {
+        for (int index = heapCurrIndex/2-1 ; index >= 0; index--) {
             minHeapify(index);
         }
     }
@@ -164,7 +188,6 @@ public class MinHeap {
                     System.out.println("Current HEAP -> ");
                     minHeap.printHeap();
                     break;
-
                 case 2:
                     int value = minHeap.removeFromHeap();
                     if (value != -1)
@@ -174,7 +197,6 @@ public class MinHeap {
                     System.out.println("Current HEAP -> ");
                     minHeap.printHeap();
                     break;
-
                 case 3:
                     System.out.print("Enter the INDEX you want to DELETE from the heap : ");
                     int index = scanner.nextInt();
@@ -185,7 +207,6 @@ public class MinHeap {
                         System.out.println("NO such INDEX present in the current HEAP array!!!");
                     minHeap.printHeap();
                     break;
-
                 case 4:
                     System.exit(0);
             }
