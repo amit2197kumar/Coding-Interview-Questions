@@ -1,15 +1,16 @@
 /*
+Company Tags: 24*7 Innovation Labs Amazon Belzabar Intuit Oracle Samsung SAP Labs Visa
 Practice Portal: https://practice.geeksforgeeks.org/problems/heap-sort/1
 */
 
 
 /***********************************
  void heapSort(int arr[], int n)  {
-    buildHeap(arr, n);
-    for (int i=n-1; i>=0; i--)  {
-        swap(arr[0], arr[i]);
-        heapify(arr, i, 0);
-    }
+ buildHeap(arr, n);
+ for (int i=n-1; i>=0; i--)  {
+ swap(arr[0], arr[i]);
+ heapify(arr, i, 0);
+ }
  }
  ************************************/
 

@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+//Company Tags: 24*7 Innovation Labs Amazon Belzabar Intuit Oracle Samsung SAP Labs Visa
 public class HeapSort {
     static Scanner scanner = new Scanner(System.in);
     public static void main(String[] args) {
