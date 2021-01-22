@@ -1,4 +1,7 @@
 /*
+
+Company Tags: Accolite Amazon Google
+
 Practice Portal:
 Geeksforgeeks: https://practice.geeksforgeeks.org/problems/find-k-th-smallest-element-in-bst/1
 LeetCode: https://leetcode.com/problems/kth-smallest-element-in-a-bst/
@@ -23,7 +26,10 @@ LeetCode: https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 //Approach-01
 //*********************************** Iterartive Stack Solution *************************************
 
-// Inspired from Inorder Iterartive implementation
+/*
+ALGO:
+ Inspired from Inorder Iterartive implementation
+ */
 class Solution {
     public int kthSmallest(TreeNode root, int k) {
         Stack<TreeNode> stack = new Stack<>();
@@ -54,6 +60,10 @@ class Solution {
 //Approach-02
 //*********************************** Recursive Solution *************************************
 
+/*
+ALGO:
+Inspired from Inorder Recursive implementation
+ */
 class Solution {
     class NumTrack {
         int k;

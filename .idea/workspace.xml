@@ -2,11 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30ac8dc5-b179-4207-92da-2759261898c9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Binary Tree/12. Level order traversal in spiral form.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary Tree/13. Left View of Binary Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary Tree/14. Right View of Binary Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary Tree/15. Vertical Order Traversal of a Binary Tree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binary Tree/01. Preorder Traversal in a Binary Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/Binary Tree/01. Preorder Traversal in a Binary Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binary Tree/02. Inorder Traversal  in a Binary Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/Binary Tree/02. Inorder Traversal  in a Binary Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binary Tree/03. Postorder Traversal  in a Binary Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/Binary Tree/03. Postorder Traversal  in a Binary Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binary Tree/04. LevelOrder Traversal  in a Binary Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/Binary Tree/04. LevelOrder Traversal  in a Binary Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binary Tree/05. Count Leaves in Binary Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/Binary Tree/05. Count Leaves in Binary Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binary Tree/06. Connect Nodes of Binary Tree at Same Level.java" beforeDir="false" afterPath="$PROJECT_DIR$/Binary Tree/06. Connect Nodes of Binary Tree at Same Level.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binary Tree/07. Determine if Two Trees are Identical.java" beforeDir="false" afterPath="$PROJECT_DIR$/Binary Tree/07. Determine if Two Trees are Identical.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binary Tree/08. Symmetric Tree (Mirror Image of itself).java" beforeDir="false" afterPath="$PROJECT_DIR$/Binary Tree/08. Symmetric Tree (Mirror Image of itself).java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binary Tree/09. Determine if a Binary Tree is height-balanced.java" beforeDir="false" afterPath="$PROJECT_DIR$/Binary Tree/09. Determine if a Binary Tree is height-balanced.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binary Tree/10. Kth Smallest Element in a Binary Search Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/Binary Tree/10. Kth Smallest Element in a Binary Search Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binary Tree/11. Kth largest element in Binary Search Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/Binary Tree/11. Kth largest element in Binary Search Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binary Tree/12. Level order traversal in spiral form.java" beforeDir="false" afterPath="$PROJECT_DIR$/Binary Tree/12. Level order traversal in spiral form.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binary Tree/13. Left View of Binary Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/Binary Tree/13. Left View of Binary Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binary Tree/14. Right View of Binary Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/Binary Tree/14. Right View of Binary Tree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +65,9 @@
       <workItem from="1610621132283" duration="4578000" />
       <workItem from="1610694162377" duration="852000" />
       <workItem from="1610695392348" duration="16197000" />
+      <workItem from="1611328331786" duration="342000" />
+      <workItem from="1611333179579" duration="130000" />
+      <workItem from="1611333753071" duration="704000" />
     </task>
     <servers />
   </component>

@@ -1,4 +1,5 @@
 /*
+Company Tags: Adobe Amazon Snapdeal
 Practice Portal: https://practice.geeksforgeeks.org/problems/inorder-traversal/1
 */
 
@@ -18,6 +19,13 @@ class Node
 
 //Approach-01
 //***********************************Recursive Solution*************************************
+
+/*
+ALGO:
+1. Go to left subtree
+2. Read current NODE data
+3. Go to right subtree
+*/
 
 class Tree
 {
@@ -44,7 +52,16 @@ class Tree
 //Approach-02
 //***********************************Iterative Solution*************************************
 
-//TIP: This approch is similar to Iterative Preorder traversal: https://github.com/kumar2197/DSA/blob/master/Binary%20Tree/PreorderTraversal.java
+/*
+ALGO:
+1. While curr node (root) OR Stack is not empty
+    1.1. Push curr node in Stack
+    1.2. Keep moving in left subtree
+    1.3. when we reach in null end in left subtree, pop from stack
+    1.4. Read the poped node
+    1.5. Start again with above 4 step taking curr node's right as root node.
+*/
+
 class Tree {
     // Return a list containing the inorder traversal of the given tree
     ArrayList<Integer> inOrder(Node root) {

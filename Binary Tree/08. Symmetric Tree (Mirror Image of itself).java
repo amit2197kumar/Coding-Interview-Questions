@@ -1,4 +1,6 @@
 /*
+Company Tags: Amazon
+
 Practice Portal:
 Geeksforgeeks: https://practice.geeksforgeeks.org/problems/symmetric-tree/1
 LeetCode: https://leetcode.com/problems/symmetric-tree/
@@ -22,6 +24,10 @@ LeetCode: https://leetcode.com/problems/symmetric-tree/
 
 //Approach-01
 //*********************************** Recursive *************************************
+/*
+ALGO:
+We use the Logic of Recursive isSameTree(Check if 2 trees are identical)
+*/
 
 class Solution {
     public boolean isSymmetric(TreeNode root) {
@@ -49,6 +55,11 @@ class Solution {
 //Approach-02
 //*********************************** Iterartive *************************************
 
+
+/*
+ALGO:
+We use the Logic of Iterartive isSameTree(Check if 2 trees are identical)
+*/
 class Solution {
     public boolean isSymmetric(TreeNode root) {
         return isSymmetricHelper(root, root);

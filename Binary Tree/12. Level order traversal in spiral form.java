@@ -1,4 +1,7 @@
 /*
+
+Company Tags: Accolite Adobe Amazon Flipkart Hike Housing.com MakeMyTrip Microsoft Morgan Stanley Ola Cabs Payu Teradata Walmart
+
 Practice Portal:
 Geeksforgeeks: https://practice.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1 (Try here)
 LeetCode: https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
@@ -22,6 +25,11 @@ class Node
 //Approach-01
 //*********************************** Iterative *************************************
 
+/*
+ALGO:
+The idea is to use two stacks. We can use one stack for printing from left to right and other stack for printing from right to left.
+In every iteration, we have nodes of one level in one of the stacks. We print the nodes, and push nodes of next level in other stack.
+*/
 class Spiral
 {
     ArrayList<Integer> findSpiral(Node root)
@@ -79,6 +87,11 @@ class Spiral
  * }
  */
 
+/*
+ALGO:
+level.add(0, node.val) is used to add elements from front & level.add(node.val) is used to add elemets from back
+zigzag flag is used to toggel.
+*/
 class Solution {
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
         List<List<Integer>> finalList = new ArrayList<>();

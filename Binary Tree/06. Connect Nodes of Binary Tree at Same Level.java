@@ -1,4 +1,6 @@
 /*
+Company Tags: Accolite Adobe Amazon Boomerang Commerce Flipkart Google Microsoft Ola Cabs Oracle OYO Rooms Xome
+
 Practice Portal:
 Geeksforgeeks: https://practice.geeksforgeeks.org/problems/connect-nodes-at-same-level/1 (Better to try here for this Q)
 LeetCode: https://leetcode.com/problems/populating-next-right-pointers-in-each-node/
@@ -54,6 +56,12 @@ class Solution {
 
 //Approach-02
 //*********************************** Iterartive *************************************
+
+
+/*
+ALGO:
+1. We use Level Order Iterative Approch
+*/
 
 class Solution {
     public Node connect(Node root) {

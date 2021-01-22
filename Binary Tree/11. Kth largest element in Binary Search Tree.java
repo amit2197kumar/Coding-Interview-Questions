@@ -1,4 +1,6 @@
 /*
+Company Tags: Accolite Amazon Samsung SAP Labs
+
 Practice Portal:
 Geeksforgeeks: https://practice.geeksforgeeks.org/problems/kth-largest-element-in-bst/1
 */
@@ -21,7 +23,10 @@ class Node
 //Approach-01
 //*********************************** Iterartive Stack Solution *************************************
 
-// Inspired from Inorder Iterartive implementation
+/*
+ALGO:
+ Inspired from Inorder Iterartive implementation
+ */
 class Tree
 {
     public int kthLargest(Node root,int k)
@@ -51,6 +56,10 @@ class Tree
 //Approach-02
 //*********************************** Recursive Solution *************************************
 
+/*
+ALGO:
+Inspired from Inorder Recursive implementation
+ */
 class Tree
 {
     class NumTrack {

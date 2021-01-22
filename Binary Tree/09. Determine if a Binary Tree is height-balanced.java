@@ -1,4 +1,7 @@
 /*
+
+Company Tags: Amazon, Belzabar, Goldman Sachs, InMobi, Intel, Microsoft, Paytm, Synopsys, Walmart, Zillious
+
 Practice Portal:
 Geeksforgeeks: https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1
 LeetCode: https://leetcode.com/problems/balanced-binary-tree/
@@ -21,7 +24,11 @@ LeetCode: https://leetcode.com/problems/balanced-binary-tree/
  */
 
 //*********************************** Recursive *************************************
-
+/*
+ALGO:
+We Do a POSTORDER traversal
+We find the left & right subtree hight on the go, in each recursive call.
+*/
 class Solution {
     public boolean isBalanced(TreeNode root) {
         if (isBalancedHelper(root) != -1) {

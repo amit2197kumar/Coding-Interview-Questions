@@ -1,4 +1,5 @@
 /*
+Company Tags: Ola Cabs Samsung
 Practice Portal: https://practice.geeksforgeeks.org/problems/count-leaves-in-binary-tree/1
 */
 
@@ -19,6 +20,14 @@ class Node
 //Approach-01
 //*********************************** Recursive *************************************
 
+/*
+ALGO:
+getLeafCount(node)
+1) If node is NULL then return 0.
+2) Else If left and right child nodes are NULL return 1.
+3) Else recursively calculate leaf count of the tree using below formula.
+    Leaf count of a tree = Leaf count of left subtree + Leaf count of right subtree
+*/
 class Tree
 {
     int countLeaves(Node root)  {
@@ -41,6 +50,11 @@ class Tree
 //Approach-02
 //*********************************** Iterartive *************************************
 
+/*
+ALGO:
+1. We do level Order Iterative traversal
+2. We check for every poped node If left and right child nodes are NULL, and count that number
+ */
 class Tree
 {
     int countLeaves(Node root)  {
