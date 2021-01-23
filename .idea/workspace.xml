@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30ac8dc5-b179-4207-92da-2759261898c9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Heap/05. Kth largest element in a stream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heap/06. Merge K sorted linked lists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Heap/00. Heap Questions.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +20,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1n3aF3vbyFwUWZLD28ws1nK3jn1" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -56,6 +56,7 @@
       <workItem from="1611328331786" duration="342000" />
       <workItem from="1611333179579" duration="130000" />
       <workItem from="1611333753071" duration="1815000" />
+      <workItem from="1611401613941" duration="246000" />
     </task>
     <servers />
   </component>
