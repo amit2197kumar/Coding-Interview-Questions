@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30ac8dc5-b179-4207-92da-2759261898c9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Heap/07. Reorganize String.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heap/08. K Closest Points to Origin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heap/09. Kth Largest Element in an Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heap/10. Kth smallest element in an Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heap/11. Last Stone Weight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heap/12. Nearly Sorted Algorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heap/13. Sorting Elements of an Array by Frequency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heap/14. Top K Frequent Elements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heap/15. Top k numbers in a stream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heap/16. Sliding Window Maximum (Maximum of all subarrays of size k).java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heap/17. Find Median from Data Stream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heap/18. Minimum Cost of ropes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Heap/06. Merge K sorted linked lists.java" beforeDir="false" afterPath="$PROJECT_DIR$/Heap/06. Merge K sorted linked lists.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +57,7 @@
       <workItem from="1611333179579" duration="130000" />
       <workItem from="1611333753071" duration="1815000" />
       <workItem from="1611401613941" duration="1257000" />
-      <workItem from="1611478448490" duration="3656000" />
+      <workItem from="1611478448490" duration="3902000" />
     </task>
     <servers />
   </component>
