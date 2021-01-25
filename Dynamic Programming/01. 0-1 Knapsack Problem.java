@@ -4,7 +4,7 @@ Practice Portal:
 Geeksforgeeks: https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1
 */
 
-// 0 - 1 Knapsack Problem is a PATENT PROBLEM
+// 0-1 Knapsack Problem is a PARENT PROBLEM
 
 /************************************************** Recursive Solution ************************************************/
 
