@@ -12,6 +12,7 @@ Geeksforgeeks: https://practice.geeksforgeeks.org/problems/coin-change2448/1
 
 class Solution
 {
+    //Recursive Solution
     public long count(int coin[], int index, int target)
     {
         if (index<=0)
@@ -39,6 +40,7 @@ if FALSE, then after getting ans save in the Memoization matrix.
 
 class Solution
 {
+    //Memoization Solution (Top-Down) : Recursive Call + DP Matrix
     public long count(int coin[], int index, int target)
     {
         long[][] dp = new long[index+1][target+1];
@@ -86,6 +88,7 @@ ROW are always n i.e. Size of the array.
 
 class Solution
 {
+    //Bottom-up Solution
     public long count(int coin[], int index, int target)
     {
         int row = index+1;
