@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30ac8dc5-b179-4207-92da-2759261898c9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Dynamic Programming/02. Subset Sum Problem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dynamic Programming/03. Partition Equal Subset Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dynamic Programming/04. Count of subsets with sum equal to X.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dynamic Programming/05. Minimum sum partition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dynamic Programming/06. Count number of subset with given difference.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dynamic Programming/07. Target Sum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic Programming/01. 0 - 1 Knapsack Problem.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic Programming/01. 0-1 Knapsack Problem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dynamic Programming/04. Count of subsets with sum equal to X.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic Programming/04. Count of subsets with sum equal to X.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +59,7 @@
       <workItem from="1611333753071" duration="1815000" />
       <workItem from="1611401613941" duration="1257000" />
       <workItem from="1611478448490" duration="4174000" />
-      <workItem from="1611511221207" duration="9486000" />
+      <workItem from="1611511221207" duration="11150000" />
     </task>
     <servers />
   </component>

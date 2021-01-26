@@ -13,6 +13,7 @@ Artical: https://www.geeksforgeeks.org/count-of-subsets-with-sum-equal-to-x/
 
 //Recursive Solution
 //Full Solution: https://ide.geeksforgeeks.org/4MpJnTMMRT
+//NOTE : THE FOLLOWING SOLUTION WILL ONLY WORK FOR ARRAY WHOSE ELEMENTS ARE NON ZERO & POSITIVE
 public static int subSetSum(int [] arr, int sum, int currIndex) {
     if (sum == 0)
         return 1;
@@ -39,6 +40,7 @@ if FALSE, then after getting ans save in the Memoization matrix.
 
 //Memoization Solution (Top-Down) : Recursive Call + DP Matrix
 //Full Solution: https://ide.geeksforgeeks.org/tiPw4m5pKk
+//NOTE : THE FOLLOWING SOLUTION WILL ONLY WORK FOR ARRAY WHOSE ELEMENTS ARE NON ZERO & POSITIVE
 public static int subSetSum(int [] arr, int sum, int currIndex, int[][] dp) {
     if (sum == 0)
         return 1;
@@ -71,6 +73,7 @@ ROW are always n/size i.e. Size of the array.
 
 //Bottom-up Solution
 //Full Solution: https://ide.geeksforgeeks.org/7F0sQU7AUh
+//NOTE : THE FOLLOWING SOLUTION WILL ONLY WORK FOR ARRAY WHOSE ELEMENTS ARE NON ZERO & POSITIVE
 public static int subSetSum(int [] arr, int sum, int index) {
     int row = index+1;
     int col = sum+1;
