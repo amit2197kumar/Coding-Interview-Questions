@@ -4,7 +4,7 @@ Practice Portal:
 Geeksforgeeks: https://practice.geeksforgeeks.org/problems/coin-change2448/1
 */
 
-// PARENT PROBLEM:
+// PARENT PROBLEM: Unbounded Knapsack
 
 /************************************************** Recursive Solution ************************************************/
 // In recursion, at every index, we have 2 choices, either to pick the current VAL or leave the current VAL

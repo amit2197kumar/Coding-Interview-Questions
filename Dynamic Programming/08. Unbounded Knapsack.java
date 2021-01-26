@@ -4,7 +4,7 @@ Practice Portal:
 Geeksforgeeks: https://practice.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1
 */
 
-// PARENT PROBLEM:
+// Unbounded Knapsack is a PARENT PROBLEM
 
 /************************************************** Recursive Solution ************************************************/
 // In recursion, at every index, we have 2 choices, either to pick the current VAL or leave the current VAL
