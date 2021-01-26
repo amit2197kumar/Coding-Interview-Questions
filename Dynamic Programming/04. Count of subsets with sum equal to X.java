@@ -100,3 +100,27 @@ public static int subSetSum(int [] arr, int sum, int index) {
 
     return dp[row-1][col-1];
 }
+
+/************************************************** Recursive Solution ************************************************/
+/************************************************** ****************** ************************************************/
+
+// NOTE : RECURSIVE SOLUTION WHEN ARRAY CONTAINS ZERO ELEMENTS AS WELL
+
+//Recursive Solution
+//Full Solution: https://ide.geeksforgeeks.org/vXZHIeYYTj (ALSO SEE: https://ide.geeksforgeeks.org/oH3pZuAxCR)
+
+public static int subSetSum(int [] arr, int sum, int currIndex) {
+    if (currIndex <= 0) {
+        if (sum == 0)
+            return 1;
+        else
+            return 0;
+    }
+
+    if (sum >= arr[currIndex-1]) {
+        return subSetSum(arr, sum, currIndex-1) +
+               subSetSum(arr, sum-arr[currIndex-1], currIndex-1);
+    } else {
+        return subSetSum(arr, sum, currIndex-1);
+    }
+}

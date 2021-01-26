@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30ac8dc5-b179-4207-92da-2759261898c9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Dynamic Programming/04. Count of subsets with sum equal to X.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic Programming/04. Count of subsets with sum equal to X.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +58,7 @@
       <workItem from="1611333753071" duration="1815000" />
       <workItem from="1611401613941" duration="1257000" />
       <workItem from="1611478448490" duration="4174000" />
-      <workItem from="1611511221207" duration="11150000" />
+      <workItem from="1611511221207" duration="11404000" />
     </task>
     <servers />
   </component>
