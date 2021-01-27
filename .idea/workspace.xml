@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30ac8dc5-b179-4207-92da-2759261898c9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Dynamic Programming/10. Minimum Coin Change.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dynamic Programming/11. Maximize The Cut Segments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/12. Longest Common Subsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/13. Longest Common Substring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/14. Minimum number of deletions and insertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/15. Shortest Common Supersequence.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic Programming/09. Coin Change.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic Programming/09. Coin Change.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +63,7 @@
       <workItem from="1611401613941" duration="1257000" />
       <workItem from="1611478448490" duration="4174000" />
       <workItem from="1611511221207" duration="14981000" />
-      <workItem from="1611679198231" duration="1215000" />
+      <workItem from="1611679198231" duration="3749000" />
     </task>
     <servers />
   </component>
