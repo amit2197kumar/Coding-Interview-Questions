@@ -35,6 +35,12 @@ class Solution
     }
 }
 
+/*
+Time Complexity: The time complexity of this recursive approach is exponential as there is a case of overlapping subproblems
+as explained in the recursive tree diagram above.
+Auxiliary Space: O(1). No external space used for storing values apart from the internal stack space.
+*/
+
 /******************************************** USING LONGEST COMMON SUBSEQUENCE ****************************************/
 /****************************************** Memoization Solution (Top-Down) *******************************************/
 
@@ -82,6 +88,11 @@ class Solution
     }
 }
 
+/*
+Time Complexity: O(n^2)
+Auxiliary Space: O(n^2) (Apart from the internal stack space)
+*/
+
 /******************************************** USING LONGEST COMMON SUBSEQUENCE ****************************************/
 /************************************************** Bottom-up Solution ************************************************/
 
@@ -121,6 +132,11 @@ class Solution
         return dp[p][q];
     }
 }
+
+/*
+Time Complexity: O(n^2)
+Auxiliary Space: O(n^2)
+*/
 
 /************************************************** USING OWN METHORD *************************************************/
 /************************************************** Recursive Solution ************************************************/

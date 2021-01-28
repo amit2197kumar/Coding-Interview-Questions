@@ -50,6 +50,10 @@ class Solution
     }
 }
 
+/*
+Time complexity: O(2^n)
+*/
+
 /****************************************** Memoization Solution (Top-Down) *******************************************/
 
 class Solution
@@ -82,6 +86,10 @@ class Solution
         return dp[index][currSum];
     }
 }
+
+/*
+Time Complexity = O(n * sum) where n is the number of elements and sum is the sum of all elements.
+*/
 
 /************************************************** Bottom-up Solution ************************************************/
 
@@ -130,3 +138,7 @@ class Solution
         return min;
     }
 }
+
+/*
+Time Complexity = O(n * sum) where n is the number of elements and sum is the sum of all elements.
+*/

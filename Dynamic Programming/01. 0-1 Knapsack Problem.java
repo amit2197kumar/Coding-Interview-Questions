@@ -27,7 +27,10 @@ class Knapsack
         }
     }
 }
-
+/*
+Time Complexity: O(2^n)
+Auxiliary Space :O(1) [O(n) for recursion stack]
+*/
 /****************************************** Memoization Solution (Top-Down) *******************************************/
 
 /*
@@ -72,6 +75,10 @@ class Knapsack
         return dp[n][W];
     }
 }
+/*
+Time Complexity: O(N * W) As redundant calculations of states are avoided.
+Auxiliary Space: O(N * W) The use of 2D array data structure for storing intermediate states.
+*/
 
 /************************************************** Bottom-up Solution ************************************************/
 
@@ -115,3 +122,9 @@ class Knapsack
         return dp[n][W];
     }
 }
+
+/*
+Time Complexity: O(N * W) : where ‘N’ is the number of weight element and ‘W’ is capacity. As for every weight element we
+traverse through all weight capacities 1<=w<=W.
+Auxiliary Space: O(N * W) : The use of 2-D array of size ‘N*W’.
+*/

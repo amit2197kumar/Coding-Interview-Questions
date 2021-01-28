@@ -31,6 +31,11 @@ public class Solution {
     }
 }
 
+/*
+Complexity Analysis: The above solution may try all subsets of given set in worst case. Therefore time complexity of the above
+solution is exponential. The problem is in-fact NP-Complete (There is no known polynomial time solution for this problem).
+*/
+
 /****************************************** Memoization Solution (Top-Down) *******************************************/
 
 /*
@@ -75,6 +80,11 @@ public class Solution {
     }
 }
 
+/*
+Time Complexity: O(sum * n), where sum is the ‘target sum’ and ‘n’ is the size of array.
+Auxiliary Space: O(sum * n), as the size of 2-D array is sum*n.
+*/
+
 /************************************************** Bottom-up Solution ************************************************/
 
 /*
@@ -115,3 +125,8 @@ public class Solution {
         return dp[size][sum];
     }
 }
+
+/*
+Time Complexity: O(sum * n), where sum is the ‘target sum’ and ‘n’ is the size of array.
+Auxiliary Space: O(sum * n), as the size of 2-D array is sum*n.
+*/

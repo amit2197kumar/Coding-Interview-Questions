@@ -28,6 +28,11 @@ class Solution
     }
 }
 
+/*
+Time Complexity: O(2^n) n~ index
+Auxiliary Space :O(1) [O(n) for recursion stack]
+*/
+
 /****************************************** Memoization Solution (Top-Down) *******************************************/
 
 /*
@@ -74,6 +79,11 @@ class Solution
     }
 }
 
+/*
+Time Complexity: O(index * targer)
+Auxiliary Space: O(index * targer) [O(index) for recursion stack]
+*/
+
 /************************************************** Bottom-up Solution ************************************************/
 
 /*
@@ -118,3 +128,8 @@ class Solution
         return dp[row-1][col-1];
     }
 }
+
+/*
+Time Complexity: O(index * targer)
+Auxiliary Space: O(index * targer)
+*/

@@ -35,6 +35,8 @@ class Solution {
     }
 }
 
+//The time complexity of above solution is exponential.
+
 /****************************************** Memoization Solution (Top-Down) *******************************************/
 
 class Solution {
@@ -76,6 +78,11 @@ class Solution {
     }
 }
 
+/*
+Time Complexity: O(n * amount)
+Auxiliary Space: O(n * amount) [O(n) for recursion stack]
+*/
+
 /************************************************** Bottom-up Solution ************************************************/
 
 class Solution {
@@ -111,3 +118,8 @@ class Solution {
             return dp[row-1][col-1];
     }
 }
+
+/*
+Time Complexity: O(coins * amount)
+Auxiliary Space: O(coins * amount)
+*/

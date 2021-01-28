@@ -42,6 +42,10 @@ class Solution{
     }
 }
 
+/*
+Time Complexity: O(2^n) In the worst case, this solution tries two possibilities (whether to include or exclude) for every element.
+*/
+
 /****************************************** Memoization Solution (Top-Down) *******************************************/
 /*
 Recursive Solution can be converted into Memoization Solution
@@ -95,6 +99,11 @@ class Solution{
         return dp[n][sum];
     }
 }
+
+/*
+Time Complexity: O(sum * n)
+Auxiliary Space: O(sum * n)
+*/
 
 /************************************************** Bottom-up Solution ************************************************/
 /*
@@ -150,3 +159,8 @@ class Solution{
         return dp[size][sum];
     }
 }
+
+/*
+Time Complexity: O(sum * n)
+Auxiliary Space: O(sum * n)
+*/
