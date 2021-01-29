@@ -2,13 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30ac8dc5-b179-4207-92da-2759261898c9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Binary Tree/15. Vertical Traversal of Binary Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary Tree/16. Top View of Binary Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary Tree/17. Bottom View of Binary Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary Tree/18. Boundary Traversal of binary tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary Tree/19. Diagonal Traversal of Binary Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Tree/20. Diameter of Binary Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Tree/21. Root to leaf path sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Tree/22. Minimum Depth of a Binary Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Tree/23. Invert Binary Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Tree/24. Flatten Binary Tree to Linked List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Tree/25. Merge Two Binary Trees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Tree/26. Convert Sorted Array to Binary Search Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Tree/27. Two nodes of a BST are swapped correct the BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Tree/28. Check if a Binary Tree is BST or not.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Tree/29. Maximum Depth of Binary Tree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binary Tree/04. LevelOrder Traversal  in a Binary Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/Binary Tree/04. LevelOrder Traversal  in a Binary Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binary Tree/00. Binary Tree Questions.md" beforeDir="false" afterPath="$PROJECT_DIR$/Binary Tree/00. Binary Tree Questions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dynamic Programming/18. Edit Distance.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic Programming/18. Edit Distance.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +71,7 @@
       <workItem from="1611401613941" duration="1257000" />
       <workItem from="1611478448490" duration="4174000" />
       <workItem from="1611511221207" duration="14981000" />
-      <workItem from="1611679198231" duration="14287000" />
+      <workItem from="1611679198231" duration="19940000" />
     </task>
     <servers />
   </component>
@@ -97,5 +103,9 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="273" y="141" key="new project wizard/-81.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1610621152762" />
+    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup" timestamp="1611945380919">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup/-81.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1611945380919" />
   </component>
 </project>

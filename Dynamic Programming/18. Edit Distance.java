@@ -1,8 +1,7 @@
 /*
-Company Tags:
+Company Tags:  Amazon Goldman Sachs
 Practice Portal:
-Geeksforgeeks:
-LeetCode:
+Geeksforgeeks: https://practice.geeksforgeeks.org/problems/edit-distance3702/1
 */
 
 // PARENT PROBLEM: Longest Common Subsequence
