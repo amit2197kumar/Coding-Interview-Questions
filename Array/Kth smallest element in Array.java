@@ -7,22 +7,22 @@ public static int kthSmallest(int[] arr, int l, int r, int k) {
 
         MaxHeap maxHeap = new MaxHeap(k);
         for (int i=0; i<k; i++) {
-        insertMaxHeap(arr[i], maxHeap);
-        //UN_COMMENT to TEST
-        //print(maxHeap);
+            insertMaxHeap(arr[i], maxHeap);
+            //UN_COMMENT to TEST
+            //print(maxHeap);
         }
 
         for (int i=k; i<=r; i++) {
-        if (getMaxHeapTop(maxHeap) > arr[i]) {
-        maxHeap.heap[0] = arr[i];
-        maxHeapify(maxHeap, 0);
+            if (getMaxHeapTop(maxHeap) > arr[i]) {
+            maxHeap.heap[0] = arr[i];
+            maxHeapify(maxHeap, 0);
 
-        //UN_COMMENT to TEST
-        //print(maxHeap);
-        }
+            //UN_COMMENT to TEST
+            //print(maxHeap);
+            }
         }
         return getMaxHeapTop(maxHeap);
-        }
+}
 
 static class MaxHeap {
     int[] heap;

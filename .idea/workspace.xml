@@ -2,19 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30ac8dc5-b179-4207-92da-2759261898c9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Binary Tree/20. Diameter of Binary Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary Tree/21. Root to leaf path sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary Tree/22. Minimum Depth of a Binary Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary Tree/23. Invert Binary Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary Tree/24. Flatten Binary Tree to Linked List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary Tree/25. Merge Two Binary Trees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary Tree/26. Convert Sorted Array to Binary Search Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary Tree/27. Two nodes of a BST are swapped correct the BST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary Tree/28. Check if a Binary Tree is BST or not.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary Tree/29. Maximum Depth of Binary Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/19. Longest Increasing Subsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/20. Maximum Sum Increasing Subsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/21. Minimum number of deletions to make a sorted sequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/22. Longest Bitonic subsequence.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binary Tree/00. Binary Tree Questions.md" beforeDir="false" afterPath="$PROJECT_DIR$/Binary Tree/00. Binary Tree Questions.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic Programming/18. Edit Distance.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic Programming/18. Edit Distance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Kth smallest element in Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Kth smallest element in Array.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +64,7 @@
       <workItem from="1611401613941" duration="1257000" />
       <workItem from="1611478448490" duration="4174000" />
       <workItem from="1611511221207" duration="14981000" />
-      <workItem from="1611679198231" duration="19940000" />
+      <workItem from="1611679198231" duration="22880000" />
     </task>
     <servers />
   </component>
