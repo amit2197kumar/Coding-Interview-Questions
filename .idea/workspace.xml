@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30ac8dc5-b179-4207-92da-2759261898c9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Binary Tree/30. Lowest Common Ancestor in a BST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary Tree/31. Root to Leaf Paths With Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary Tree/32. Construct Binary Tree from Preorder and Inorder Traversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary Tree/33. Construct Binary Tree from Inorder and Postorder Traversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary Tree/34. Merge Two BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Tree/35. Lowest Common Ancestor of a Binary Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Tree/36. Convert a given Binary Tree to Doubly Linked List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Tree/37. Maximum Path Sum in a Binary Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Tree/38. All Nodes Distance K in Binary Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Tree/39. Serialize and Deserialize a Binary Tree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binary Tree/00. Binary Tree Questions.md" beforeDir="false" afterPath="$PROJECT_DIR$/Binary Tree/00. Binary Tree Questions.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +65,8 @@
       <workItem from="1611401613941" duration="1257000" />
       <workItem from="1611478448490" duration="4174000" />
       <workItem from="1611511221207" duration="14981000" />
-      <workItem from="1611679198231" duration="26567000" />
+      <workItem from="1611679198231" duration="27177000" />
+      <workItem from="1612191715851" duration="1810000" />
     </task>
     <servers />
   </component>
