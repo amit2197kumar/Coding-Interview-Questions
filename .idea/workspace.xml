@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30ac8dc5-b179-4207-92da-2759261898c9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Dynamic Programming/19. Longest Increasing Subsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dynamic Programming/20. Maximum Sum Increasing Subsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dynamic Programming/21. Minimum number of deletions to make a sorted sequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dynamic Programming/22. Longest Bitonic subsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Tree/30. Lowest Common Ancestor in a BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Tree/31. Root to Leaf Paths With Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Tree/32. Construct Binary Tree from Preorder and Inorder Traversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Tree/33. Construct Binary Tree from Inorder and Postorder Traversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Tree/34. Merge Two BST.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/Kth smallest element in Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Kth smallest element in Array.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +64,7 @@
       <workItem from="1611401613941" duration="1257000" />
       <workItem from="1611478448490" duration="4174000" />
       <workItem from="1611511221207" duration="14981000" />
-      <workItem from="1611679198231" duration="22880000" />
+      <workItem from="1611679198231" duration="26567000" />
     </task>
     <servers />
   </component>
