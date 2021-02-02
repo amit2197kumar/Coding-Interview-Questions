@@ -26,6 +26,10 @@ class Solution{
     }
 }
 
+/*
+Time Complexity: The time complexity of this recursive approach is exponential 2^n.
+*/
+
 /****************************************** Memoization Solution (Top-Down) *******************************************/
 
 /************************************************** Bottom-up Solution ************************************************/
@@ -58,3 +62,8 @@ class Solution{
         return maxLen;
     }
 }
+
+/*
+Time Complexity: O(n^2)
+Auxiliary Space: O(n^2)
+*/

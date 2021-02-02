@@ -30,8 +30,7 @@ class LCS{
 }
 
 /*
-Time Complexity: The time complexity of this recursive approach is exponential as there is a case of overlapping subproblems
-as explained in the recursive tree diagram above.
+Time Complexity: The time complexity of this recursive approach is exponential 2^n
 Auxiliary Space: O(1). No external space used for storing values apart from the internal stack space.
 */
 
