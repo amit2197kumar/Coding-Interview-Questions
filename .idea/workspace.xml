@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="30ac8dc5-b179-4207-92da-2759261898c9" name="Default Changelist" comment="" />
+    <list default="true" id="30ac8dc5-b179-4207-92da-2759261898c9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Linked List/01. Finding middle element in a linked list.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linked List/02. Reverse a linked list.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linked List/03. Rotate a Linked List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linked List/04. Reverse a Linked List in groups of given size.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linked List/05. Intersection Point in Y Shapped Linked Lists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linked List/06. Detect Loop in linked list.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linked List/07. Remove loop in Linked List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linked List/08. Nth node from end of linked list.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linked List/09. Merge Sort for Linked List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linked List/10. Flattening a Linked List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linked List/11. Merge two sorted linked lists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +72,7 @@
       <workItem from="1611511221207" duration="14981000" />
       <workItem from="1611679198231" duration="27177000" />
       <workItem from="1612191715851" duration="1810000" />
-      <workItem from="1612286413990" duration="6339000" />
+      <workItem from="1612286413990" duration="10224000" />
     </task>
     <servers />
   </component>
