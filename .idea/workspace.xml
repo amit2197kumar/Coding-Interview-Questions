@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="30ac8dc5-b179-4207-92da-2759261898c9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Dynamic Programming/28. Palindromic patitioning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dynamic Programming/29. Evaluate Boolean Parenthesization-Expression To True.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="30ac8dc5-b179-4207-92da-2759261898c9" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,7 +59,7 @@
       <workItem from="1611511221207" duration="14981000" />
       <workItem from="1611679198231" duration="27177000" />
       <workItem from="1612191715851" duration="1810000" />
-      <workItem from="1612286413990" duration="6144000" />
+      <workItem from="1612286413990" duration="6339000" />
     </task>
     <servers />
   </component>
