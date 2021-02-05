@@ -1,19 +1,23 @@
 /*
-Company Tags:   Accolite Adobe Amazon D-E-Shaw FactSet Flipkart Goldman Sachs MakeMyTrip MAQ Software
-Microsoft Qualcomm Snapdeal Visa VMWare
-
+Company Tags:   Accolite Adobe Amazon D-E-Shaw FactSet Flipkart Goldman Sachs MakeMyTrip MAQ Software Microsoft Qualcomm
+Snapdeal Visa VMWare
 Practice Portal:
-Geeksforgeeks: https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1/
+Geeksforgeeks: https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1
 */
 
-/*
-    class Node
-    {
-        int data;
-        Node next;
-        Node(int d) {data = d; next = null; }
-    }
+/* Node of a linked list
+ class Node {
+   int data;
+    Node next;
+    Node(int d)  { data = d;  next = null; }
+}
+ Linked List class
+class LinkedList
+{
+    Node head;  // head of list
+}
 */
+
 class Intersect
 {
     int intersectPoint(Node headA, Node headB)
@@ -51,6 +55,7 @@ class Intersect
         return count;
     }
 }
+
 
 /*
 Time Complexity: O(m+n)

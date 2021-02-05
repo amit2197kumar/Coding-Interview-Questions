@@ -1,22 +1,34 @@
 /*
-Company Tags:   Accolite Adobe Amazon Goldman Sachs Hike MakeMyTrip Microsoft Paytm SAP Labs Snapdeal VMWare Walmart
+Company Tags:  Amazon Intuit Microsoft Moonfrog Labs
 Practice Portal:
-Geeksforgeeks: https://practice.geeksforgeeks.org/problems/rotate-a-linked-list/1
+Geeksforgeeks: https://practice.geeksforgeeks.org/problems/pairwise-swap-elements-of-a-linked-list-by-swapping-data/1
 */
+
+// This Q is dependent on : Reverse a Linked List in groups of given size.
+// Try here: https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1
 
 /************************************************** Recursive Solution ************************************************/
 
-/*
-    class Node
-    {
-        int data;
-        Node next;
-        Node(int d) {data = d; next = null; }
-    }
-*/
-class gfg
+/* node class of the linked list
+class Node
 {
-    Node reverse(Node head, int k)
+    int data;
+    Node next;
+    Node(int key)
+    {
+        data = key;
+        next = null;
+    }
+}
+*/
+
+class Solution {
+    public Node pairwiseSwap(Node head)
+    {
+        return reverse(head, 2);
+    }
+
+    public static Node reverse(Node head, int k)
     {
         if(head==null||head.next==null)
             return head ;
@@ -50,25 +62,27 @@ class gfg
     }
 }
 
-/*
-Time Complexity: O(n).
-Traversal of list is done only once and it has ‘n’ elements.
-Auxiliary Space: O(n/k).
-For each Linked List of size n, n/k or (n/k)+1 calls will be made during the recursion.
-*/
-
 /************************************************** Iterative Solution ************************************************/
 
-/*
-    class Node
-    {
-        int data;
-        Node next;
-        Node(int d) {data = d; next = null; }
-    }
-*/
-class GfG
+/* node class of the linked list
+class Node
 {
+    int data;
+    Node next;
+    Node(int key)
+    {
+        data = key;
+        next = null;
+    }
+}
+*/
+
+class Solution {
+    public Node pairwiseSwap(Node head)
+    {
+        return reverse(head, 2);
+    }
+
     public static Node reverse(Node node, int k)
     {
         if (node == null || k <= 1)
@@ -105,9 +119,3 @@ class GfG
         return newHead;
     }
 }
-
-/*
-Time Complexity: O(n).
-Traversal of list is done only once and it has ‘n’ elements.
-This algorithm uses O(k) extra space
-*/

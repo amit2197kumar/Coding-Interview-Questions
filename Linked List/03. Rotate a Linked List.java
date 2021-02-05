@@ -6,6 +6,14 @@ Geeksforgeeks: https://practice.geeksforgeeks.org/problems/rotate-a-linked-list/
 
 
 //Approach 01
+/*
+    class Node
+    {
+        int data;
+        Node next;
+        Node(int d) {data = d; next = null; }
+    }
+*/
 class Rotate {
     public Node rotate(Node head, int k) {
         if (null == head) {
@@ -45,6 +53,14 @@ Space Complexity: O(1)
 
 
 //Approach 02
+/*
+    class Node
+    {
+        int data;
+        Node next;
+        Node(int d) {data = d; next = null; }
+    }
+*/
 class Rotate{
 /*
 To rotate a linked list by k, we can first make the linked list circular and then moving k-1 steps forward

@@ -6,7 +6,14 @@ Geeksforgeeks: https://practice.geeksforgeeks.org/problems/reverse-a-linked-list
 */
 
 /************************************************** Iterative Solution ************************************************/
-
+/*
+    class Node
+    {
+        int data;
+        Node next;
+        Node(int d) {data = d; next = null; }
+    }
+*/
 class ReverseLL
 {
     Node reverseList(Node head)
@@ -34,7 +41,14 @@ Space Complexity: O(1)
 */
 
 /************************************************** Recursive Solution ************************************************/
-
+/*
+    class Node
+    {
+        int data;
+        Node next;
+        Node(int d) {data = d; next = null; }
+    }
+*/
 class ReverseLL
 {
     Node reverseList(Node head)

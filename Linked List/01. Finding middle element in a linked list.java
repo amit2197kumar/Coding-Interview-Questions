@@ -11,6 +11,16 @@ Geeksforgeeks: https://practice.geeksforgeeks.org/problems/finding-middle-elemen
 Traverse linked list using two pointers. Move one pointer by one and the other pointers by two.
 When the fast pointer reaches the end slow pointer will reach the middle of the linked list.
 */
+
+/*
+    class Node
+    {
+        int data;
+        Node next;
+        Node(int d) {data = d; next = null; }
+    }
+*/
+
 class GFG
 {
     int getMiddle(Node head)

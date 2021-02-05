@@ -6,6 +6,14 @@ Geeksforgeeks: https://practice.geeksforgeeks.org/problems/merge-two-sorted-link
 
 /************************************************** Iterative Solution ************************************************/
 
+/*
+    class Node
+    {
+        int data;
+        Node next;
+        Node(int d) {data = d; next = null; }
+    }
+*/
 class LinkedList
 {
     Node sortedMerge(Node headA, Node headB) {
@@ -47,6 +55,14 @@ Auxilliary Space : O(1)
 
 /************************************************** Recursive Solution ************************************************/
 
+/*
+    class Node
+    {
+        int data;
+        Node next;
+        Node(int d) {data = d; next = null; }
+    }
+*/
 class LinkedList
 {
     Node sortedMerge(Node headA, Node headB) {

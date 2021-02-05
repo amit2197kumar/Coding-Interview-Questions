@@ -5,6 +5,14 @@ Practice Portal:
 Geeksforgeeks: https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1
 */
 
+/*
+    class Node
+    {
+        int data;
+        Node next;
+        Node(int d) {data = d; next = null; }
+    }
+*/
 class GfG
 {
     int getNthFromLast(Node head, int n)

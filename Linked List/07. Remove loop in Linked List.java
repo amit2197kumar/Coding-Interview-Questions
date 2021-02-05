@@ -5,6 +5,14 @@ Geeksforgeeks: https://practice.geeksforgeeks.org/problems/remove-loop-in-linked
 */
 
 //Using Floyd’s Cycle-Finding Algorithm
+/*
+    class Node
+    {
+        int data;
+        Node next;
+        Node(int d) {data = d; next = null; }
+    }
+*/
 class solver
 {
     public static void removeTheLoop(Node head)

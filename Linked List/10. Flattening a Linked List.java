@@ -5,6 +5,21 @@ Geeksforgeeks: https://practice.geeksforgeeks.org/problems/flattening-a-linked-l
 */
 
 /*************************************************** Using PriorityQueue ***********************************************/
+/*Node class  used in the program
+class Node
+{
+	int data;
+	Node next;
+	Node bottom;
+
+	Node(int d)
+	{
+		data = d;
+		next = null;
+		bottom = null;
+	}
+}
+*/
 class GfG
 {
     Node flatten(Node head)
@@ -43,6 +58,21 @@ class GfG
 // Time Complexity = ?? (Think)
 /*************************************************** Using PriorityQueue ***********************************************/
 
+/*Node class  used in the program
+class Node
+{
+	int data;
+	Node next;
+	Node bottom;
+
+	Node(int d)
+	{
+		data = d;
+		next = null;
+		bottom = null;
+	}
+}
+*/
 class GfG
 {
     Node flatten(Node head)
