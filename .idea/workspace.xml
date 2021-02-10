@@ -2,15 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30ac8dc5-b179-4207-92da-2759261898c9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Graph/01. Breadth First Search or BFS for a Graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph/02. Depth First Search or DFS for a Graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting Algorithms/01. Bubble Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting Algorithms/02. Selection Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting Algorithms/03. Insertion Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting Algorithms/04. Merge Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting Algorithms/05. QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/02. Find a triplet such that sum of two equals to third element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/03. Find the Missing Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design/01.  LRU Cache.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Heap/04. Heap Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Heap/04. Heap Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Kth smallest element in Array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/RandomImage.md" beforeDir="false" afterPath="$PROJECT_DIR$/Array/01. Find subarray with given sum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +67,8 @@
       <workItem from="1611679198231" duration="27177000" />
       <workItem from="1612191715851" duration="1810000" />
       <workItem from="1612286413990" duration="15145000" />
-      <workItem from="1612763869098" duration="1468000" />
+      <workItem from="1612763869098" duration="4070000" />
+      <workItem from="1612884108662" duration="1170000" />
     </task>
     <servers />
   </component>
@@ -94,11 +92,11 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="100" y="100" width="1592" height="920" key="DiffContextDialog/-81.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1610631876255" />
-    <state x="556" y="378" key="com.intellij.ide.util.TipDialog" timestamp="1612763871699">
-      <screen x="0" y="23" width="1792" height="1015" />
+    <state x="556" y="392" key="com.intellij.ide.util.TipDialog" timestamp="1612884111367">
+      <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="556" y="378" key="com.intellij.ide.util.TipDialog/-81.-1057.1920.1057/0.23.1792.1015@0.23.1792.1015" timestamp="1612763871699" />
-    <state x="556" y="392" key="com.intellij.ide.util.TipDialog/-81.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1612286414909" />
+    <state x="556" y="392" key="com.intellij.ide.util.TipDialog/-81.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1612884111367" />
     <state x="273" y="141" key="new project wizard" timestamp="1610621152762">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
