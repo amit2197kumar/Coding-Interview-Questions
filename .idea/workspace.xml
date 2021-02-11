@@ -2,12 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30ac8dc5-b179-4207-92da-2759261898c9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Array/02. Find a triplet such that sum of two equals to third element.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/03. Find the Missing Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Design/01.  LRU Cache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/04. Largest Sum Contiguous Subarray(Kadane's Algo).java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/05. Merge two sorted arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backtracking/01. Permutations of a given string.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Divide and Conquer/01. Largest Sum Contiguous Subarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Greedy/01. Highest product possible by multiplying 3 numbers from the array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Greedy/02. Switch ON all bulbs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Greedy/03. Non-overlapping Intervals(Disjoint Intervals).java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Greedy/04. Largest permutation after at most k swaps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/01. Reverse words in a given string.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/02. Permutations of a given string.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/Kth smallest element in Array.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/RandomImage.md" beforeDir="false" afterPath="$PROJECT_DIR$/Array/01. Find subarray with given sum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +73,7 @@
       <workItem from="1612191715851" duration="1810000" />
       <workItem from="1612286413990" duration="15145000" />
       <workItem from="1612763869098" duration="4070000" />
-      <workItem from="1612884108662" duration="1170000" />
+      <workItem from="1612884108662" duration="6285000" />
     </task>
     <servers />
   </component>
