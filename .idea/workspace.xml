@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30ac8dc5-b179-4207-92da-2759261898c9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Greedy/05. Meeting Rooms.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Greedy/06. Distribute Candy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Greedy/07. Gas Station.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Greedy/08. Assign Mice to Holes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Greedy/09. Majority Element.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Greedy/10. Seats(Minimum jumps required to make a group of persons sit together).java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Greedy/11. Activity Selection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heap/19. Meeting Rooms.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heap/20. Largest permutation after at most k swaps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Greedy/12. N meetings in one room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Greedy/13. Fractional Knapsack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Greedy/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +66,8 @@
       <workItem from="1612191715851" duration="1810000" />
       <workItem from="1612286413990" duration="15145000" />
       <workItem from="1612763869098" duration="4070000" />
-      <workItem from="1612884108662" duration="10410000" />
+      <workItem from="1612884108662" duration="11132000" />
+      <workItem from="1613219317976" duration="1435000" />
     </task>
     <servers />
   </component>
@@ -96,11 +91,11 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="100" y="100" width="1592" height="920" key="DiffContextDialog/-81.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1610631876255" />
-    <state x="556" y="392" key="com.intellij.ide.util.TipDialog" timestamp="1612884111367">
+    <state x="556" y="392" key="com.intellij.ide.util.TipDialog" timestamp="1613219318914">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="556" y="378" key="com.intellij.ide.util.TipDialog/-81.-1057.1920.1057/0.23.1792.1015@0.23.1792.1015" timestamp="1612763871699" />
-    <state x="556" y="392" key="com.intellij.ide.util.TipDialog/-81.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1612884111367" />
+    <state x="556" y="392" key="com.intellij.ide.util.TipDialog/-81.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1613219318914" />
     <state x="273" y="141" key="new project wizard" timestamp="1610621152762">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
