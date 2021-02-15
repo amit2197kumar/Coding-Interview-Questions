@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30ac8dc5-b179-4207-92da-2759261898c9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Greedy/12. N meetings in one room.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Greedy/13. Fractional Knapsack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Greedy/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack &amp; Queue/01. Find the next greater element in the right in an array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack &amp; Queue/02. The Stock Span Problem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack &amp; Queue/03. Largest Rectangular Area in a Histogram.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +67,7 @@
       <workItem from="1612286413990" duration="15145000" />
       <workItem from="1612763869098" duration="4070000" />
       <workItem from="1612884108662" duration="11132000" />
-      <workItem from="1613219317976" duration="1435000" />
+      <workItem from="1613219317976" duration="2950000" />
     </task>
     <servers />
   </component>
