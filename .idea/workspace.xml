@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30ac8dc5-b179-4207-92da-2759261898c9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Array/06. Trapping Rain Water.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack &amp; Queue/05. Min Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack &amp; Queue/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Search/01. Binary Search in array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Search/02. Find First and Last Position of Element in Sorted Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Search/03. Count number of occurrences (or frequency) in a sorted array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Search/04. Find the Rotation Count in Rotated Sorted array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Search/05. Find Minimum in Rotated Sorted Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Search/06. Floor in a Sorted Array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack &amp; Queue/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Stack &amp; Queue/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +72,9 @@
       <workItem from="1612763869098" duration="4070000" />
       <workItem from="1612884108662" duration="11132000" />
       <workItem from="1613219317976" duration="3609000" />
-      <workItem from="1613482648747" duration="1022000" />
+      <workItem from="1613482648747" duration="1199000" />
+      <workItem from="1613536247459" duration="2628000" />
+      <workItem from="1613578727789" duration="156000" />
     </task>
     <servers />
   </component>
@@ -92,11 +98,11 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="100" y="100" width="1592" height="920" key="DiffContextDialog/-81.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1610631876255" />
-    <state x="556" y="392" key="com.intellij.ide.util.TipDialog" timestamp="1613482649341">
+    <state x="556" y="392" key="com.intellij.ide.util.TipDialog" timestamp="1613578728545">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="556" y="378" key="com.intellij.ide.util.TipDialog/-81.-1057.1920.1057/0.23.1792.1015@0.23.1792.1015" timestamp="1612763871699" />
-    <state x="556" y="392" key="com.intellij.ide.util.TipDialog/-81.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1613482649341" />
+    <state x="556" y="392" key="com.intellij.ide.util.TipDialog/-81.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1613578728545" />
     <state x="273" y="141" key="new project wizard" timestamp="1610621152762">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>

@@ -5,7 +5,7 @@
 1. Array involved in Question (Basic Check)
 2. Dependent O(n*n) time complexity for Brute force solution. If Brute force solution is dependent in nature, then there can be a better solution using Stack.
 
-```json
+```
 Normal Brute force O(n*n):
 for (int i=0; i<n; i++) {
 	for (int j=0; j<n; j++) {...}
