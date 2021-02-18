@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30ac8dc5-b179-4207-92da-2759261898c9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Binary Search/01. Binary Search in array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary Search/02. Find First and Last Position of Element in Sorted Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary Search/03. Count number of occurrences (or frequency) in a sorted array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary Search/04. Find the Rotation Count in Rotated Sorted array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary Search/05. Find Minimum in Rotated Sorted Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary Search/06. Floor in a Sorted Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design/02. Min Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design/03. Implement Stack using Queues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design/04. Implement Queue using Stacks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack &amp; Queue/06. Implement Stack using Queues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack &amp; Queue/07. Implement Queue using Stacks.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stack &amp; Queue/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Stack &amp; Queue/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +72,7 @@
       <workItem from="1613219317976" duration="3609000" />
       <workItem from="1613482648747" duration="1199000" />
       <workItem from="1613536247459" duration="2628000" />
-      <workItem from="1613578727789" duration="156000" />
+      <workItem from="1613578727789" duration="1599000" />
     </task>
     <servers />
   </component>
