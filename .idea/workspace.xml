@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30ac8dc5-b179-4207-92da-2759261898c9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Design/02. Min Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Design/03. Implement Stack using Queues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Design/04. Implement Queue using Stacks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack &amp; Queue/06. Implement Stack using Queues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack &amp; Queue/07. Implement Queue using Stacks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Search/07. Find Smallest Letter Greater Than Target.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Search/08. Find Peak Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Search/09. Search a 2D Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Search/10. Allocate minimum number of pages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Search/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design/05. Serialize and Deserialize Binary Tree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,10 +31,10 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -45,6 +46,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -72,12 +74,23 @@
       <workItem from="1613219317976" duration="3609000" />
       <workItem from="1613482648747" duration="1199000" />
       <workItem from="1613536247459" duration="2628000" />
-      <workItem from="1613578727789" duration="1599000" />
+      <workItem from="1613578727789" duration="2090000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="360" y="222" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610785310997">
