@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30ac8dc5-b179-4207-92da-2759261898c9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Sliding Window/01. Max Sum Subarray of size K.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sliding Window/02. First negative integer in every window of size k.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sliding Window/03. Count Occurences of Anagrams in a String.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design/05. Serialize and Deserialize Binary Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/Design/05. Serialize and Deserialize Binary Tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Heap/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Heap/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stack &amp; Queue/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Stack &amp; Queue/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/String/02. Permutations of a given string.java" beforeDir="false" afterPath="$PROJECT_DIR$/String/02. Permutations of a given string.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,9 +92,9 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Test" />
       <item itemvalue="Gradle.Unnamed" />
       <item itemvalue="XSLT.Unnamed" />
-      <item itemvalue="Application.Test" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
