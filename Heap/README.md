@@ -47,7 +47,7 @@
 
 1. [Binary Heap Operations](https://practice.geeksforgeeks.org/problems/operations-on-binary-min-heap/1)
 2. [Heap Sort](https://practice.geeksforgeeks.org/problems/heap-sort/1)
-3. [Rearrange characters](https://practice.geeksforgeeks.org/problems/rearrange-characters/0) ([Reorganize String](https://leetcode.com/problems/reorganize-string/))
+3. [Rearrange characters](https://practice.geeksforgeeks.org/problems/rearrange-characters/0) ([Reorganize String](https://leetcode.com/problems/reorganize-string/)) ***
 4. [Kth largest element in a stream](https://practice.geeksforgeeks.org/problems/kth-largest-element-in-a-stream/0) **
 5. [Merge K sorted linked lists](https://practice.geeksforgeeks.org/problems/merge-k-sorted-linked-lists/1)
 6. [Find median in a stream](https://practice.geeksforgeeks.org/problems/find-median-in-a-stream-1587115620/1)

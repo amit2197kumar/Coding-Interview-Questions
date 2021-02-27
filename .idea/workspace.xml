@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="30ac8dc5-b179-4207-92da-2759261898c9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design/05. Serialize and Deserialize Binary Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/Design/05. Serialize and Deserialize Binary Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Heap/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Heap/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack &amp; Queue/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Stack &amp; Queue/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/02. Permutations of a given string.java" beforeDir="false" afterPath="$PROJECT_DIR$/String/02. Permutations of a given string.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +37,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
     <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/src/Binary Tree" />
   </component>
@@ -136,5 +143,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
