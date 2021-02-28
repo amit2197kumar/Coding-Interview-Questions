@@ -61,7 +61,7 @@
 14. [Top k numbers in a stream](https://practice.geeksforgeeks.org/problems/top-k-numbers3425/1)
 15. [Convert a min heap to max heap](https://afteracademy.com/problems/convert-a-min-heap-to-max-heap)
 16. [K Pairs with Smallest Sums](https://afteracademy.com/problems/k-pairs-with-smallest-sums)
-17. [Sliding window maximum](https://afteracademy.com/problems/sliding-window-maximum)
+17. [Sliding window maximum](https://afteracademy.com/problems/sliding-window-maximum) ***
 
 # Article
 

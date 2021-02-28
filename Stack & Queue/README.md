@@ -31,3 +31,4 @@ for (int i=0; i<n; i++) {
 10. [Length of the longest valid substring](https://practice.geeksforgeeks.org/problems/valid-substring0624/1)
 11. [Tower of Hanoi (Iterative)](https://practice.geeksforgeeks.org/problems/help-the-old-man3848/1)
 12. [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
+13. [Sliding window maximum](https://afteracademy.com/problems/sliding-window-maximum) ***
