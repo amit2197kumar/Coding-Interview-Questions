@@ -1,9 +1,11 @@
 /*
-Company Tags" Amazon Directi Flipkart
+Company Tags: Amazon Directi Flipkart
 Practice Portal:
 Geeksforgeeks : https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1
 LeetCode: https://leetcode.com/problems/sliding-window-maximum/
 */
+
+// This problem belongs to VARIBALE size sliding window varient
 
 /*************************************** Using PriorityQueue (geeksforgeeks) ******************************************/
 
