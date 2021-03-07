@@ -10,7 +10,7 @@ Tip: wheneven in LL manipulate head node(1st node) is involved we can use a dumm
 
 1. [Finding middle element in a linked list](https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1)
 2. [Reverse a linked list](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1)
-3. [Rotate a Linked List](https://practice.geeksforgeeks.org/problems/rotate-a-linked-list/1)
+3. [Rotate a Linked List](https://practice.geeksforgeeks.org/problems/rotate-a-linked-list/1) *
 4. [Reverse a Linked List in groups of given size](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1) **
 5. [Intersection Point in Y Shapped Linked Lists](https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1/)
 6. [Detect Loop in linked list](https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1)
