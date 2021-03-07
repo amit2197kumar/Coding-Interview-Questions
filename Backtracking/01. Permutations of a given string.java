@@ -71,8 +71,8 @@ AAB AAB ABA ABA BAA BAA
 //Read about Set here : https://www.geeksforgeeks.org/set-in-java/
 
 import java.util.*;
-        import java.lang.*;
-        import java.io.*;
+import java.lang.*;
+import java.io.*;
 class GFG
 {
     public static void main (String[] args) {
