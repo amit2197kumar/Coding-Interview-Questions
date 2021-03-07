@@ -38,7 +38,7 @@ A problem must comprise these two components for a greedy algorithm to work:
 ## Important code snippet highly used:
 
 ### Comparable:
-```
+```java
 class Pair implements Comparable<Pair> {
         int start, end;
         Pair(int start, int end) {
@@ -58,7 +58,7 @@ class Pair implements Comparable<Pair> {
 ```
 
 ### Comparator:
-```
+```java
 PriorityQueue<Pair> minHeap = new PriorityQueue<>(new Comparator<Pair>() {
             public int compare(Pair one, Pair two) {
                 if (two.end < one.end)
