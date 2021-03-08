@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30ac8dc5-b179-4207-92da-2759261898c9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Graph/03. Detect cycle in an undirected graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph/04. Detect cycle in a directed graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph/05. Topological Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backtracking/02. Knights Tour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backtracking/03. Rat in a Maze.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backtracking/01. Permutations of a given string.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backtracking/01. Permutations of a given string.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
