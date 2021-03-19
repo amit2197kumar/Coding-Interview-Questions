@@ -1,4 +1,7 @@
 # Graph
+**Graph Introduction:** [Introduction to data structures : Check 5 Videos](https://youtu.be/92S4zgXN17o?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
+
+**Read**: [Graph Tutorial](https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/tutorial/)
 
 ## Coding Questions:
 
