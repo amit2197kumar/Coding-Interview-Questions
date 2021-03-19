@@ -62,10 +62,12 @@ Remember : PARENT of Dynamic Programming is RECURSION.
     4. Minimum jumps with fee
     5. [House thief](https://practice.geeksforgeeks.org/problems/max-sum-without-adjacents2430/1)
 7. Best Time To Buy & Sell Stocks
-    1. [Best Time to Buy and Sell Stock I](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
-    2. [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
-    3. [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)
-    4. [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)
-    5. [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
-    6. [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)
+    1. [Buy And Sell Stocks - One Transaction Allowed](https://www.pepcoding.com/resources/online-java-foundation/dynamic-programming-and-greedy/buy-and-sell-stocks-ota-official/ojquestion) [!DP]
+    2. [Buy And Sell Stocks - Infinite Transactions Allowed](https://www.pepcoding.com/resources/online-java-foundation/dynamic-programming-and-greedy/buy-and-sell-stocks-ita-official/ojquestion) [!DP]
+    3. [Buy And Sell Stocks With Transaction Fee - Infinite Transactions Allowed](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) ****
+    4. [Buy And Sell Stocks With Cool-down - Infinite Transaction Allowed](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
+    5. [Buy And Sell Stocks - Two Transactions Allowed](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)
+    6. [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
+    7. [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)
 8. Shortest Path!!
+    1. [Count all possible paths from top left to bottom right](https://practice.geeksforgeeks.org/problems/count-all-possible-paths-from-top-left-to-bottom-right3011/1)
