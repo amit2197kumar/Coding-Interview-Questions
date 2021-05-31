@@ -11,3 +11,6 @@
 9. [Zero Sum Subarrays](https://practice.geeksforgeeks.org/problems/zero-sum-subarrays1825/1) *
 10. Smallest window in a string containing all the characters of another string [[LeetCode](https://leetcode.com/problems/minimum-window-substring/)][[GeeksForGeeks](https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string-1587115621/1)] ****
 11. Longest Substring Without Repeating Characters [[LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/)][[GeeksForGeeks](https://practice.geeksforgeeks.org/problems/length-of-the-longest-substring3036/1)] **
+12. [Longest K unique characters substring](https://practice.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1) *
+13. [Count number of substrings with K unique characters in substring](https://practice.geeksforgeeks.org/problems/count-number-of-substrings4528/1) ****
+14. [Count of Equivalent Subarrays](https://practice.geeksforgeeks.org/problems/equivalent-sub-arrays3731/1)
