@@ -5,4 +5,9 @@
     3. [Delete Last Node Of Linked List](https://www.naukri.com/code360/problems/delete-node-of-linked-list_8160463)
     4. [Count Nodes Of Linked List](https://www.naukri.com/code360/problems/count-nodes-of-linked-list_5884)
     5. [Search In A Linked List](https://www.naukri.com/code360/problems/search-in-a-linked-list_975381)
-   
+
+- Doubly Linked List Basic Problems
+    1. [Create A Doubly Linked List](https://www.naukri.com/code360/problems/introduction-to-doubly-linked-list_8160413)
+    2. [Insert At End Of Doubly Linked List](https://www.naukri.com/code360/problems/insert-at-end-of-doubly-linked-list_8160464)
+    3. [Delete Last Node Of A Doubly Linked List](https://www.naukri.com/code360/problems/delete-last-node-of-a-doubly-linked-list_8160469)
+    4. [Reverse A Doubly Linked List](https://www.naukri.com/code360/problems/reverse-a-doubly-linked-list_1116098)
