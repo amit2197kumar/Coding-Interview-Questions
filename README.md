@@ -11,3 +11,8 @@
     2. [Insert At End Of Doubly Linked List](https://www.naukri.com/code360/problems/insert-at-end-of-doubly-linked-list_8160464)
     3. [Delete Last Node Of A Doubly Linked List](https://www.naukri.com/code360/problems/delete-last-node-of-a-doubly-linked-list_8160469)
     4. [Reverse A Doubly Linked List](https://www.naukri.com/code360/problems/reverse-a-doubly-linked-list_1116098)
+
+- Singly Linked List Medium Problems
+    1. [Middle Of Linked List](https://www.naukri.com/code360/problems/middle-of-linked-list_973250)
+    2. [Reverse Linked List](https://www.naukri.com/code360/problems/reverse-linked-list_920513)
+    3. [Cycle Detection In A Singly Linked List](https://www.naukri.com/code360/problems/cycle-detection-in-a-singly-linked-list_628974)
