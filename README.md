@@ -1,6 +1,6 @@
 # Strivers A2Z DSA
 
-Total Solved Till Now: 30 / 455
+Total Solved Till Now: 33 / 455
 
 ## Linked List [30]
 1. **Singly Linked List - Basic Problems**
@@ -43,6 +43,12 @@ Total Solved Till Now: 30 / 455
     3. [Flatten A Linked List](https://www.naukri.com/code360/problems/flatten-a-linked-list_1112655)
     4. [Clone a Linked List with random pointers](https://www.naukri.com/code360/problems/clone-a-linked-list-with-random-pointers_983604)
 
+## Dynamic Programming [3]
+
+1. **1D Dynamic Programming Problems**
+    1. [Nth Fibonacci Number](https://www.naukri.com/code360/problems/nth-fibonacci-number_74156)
+    2. [Count Ways To Reach The N-th Stairs](https://www.naukri.com/code360/problems/count-ways-to-reach-the-n-th-stairs_798650)
+    3. [Frog Jump](https://www.naukri.com/code360/problems/frog-jump_3621012)
 
 # Reference
 1. [Link To Problem List](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
