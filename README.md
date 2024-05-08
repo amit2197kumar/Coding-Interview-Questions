@@ -1,6 +1,6 @@
 # Strivers A2Z DSA
 
-Total Solved Till Now: 33 / 455
+Total Solved Till Now: 36 / 455
 
 ## Linked List [30]
 1. **Singly Linked List - Basic Problems**
@@ -43,12 +43,15 @@ Total Solved Till Now: 33 / 455
     3. [Flatten A Linked List](https://www.naukri.com/code360/problems/flatten-a-linked-list_1112655)
     4. [Clone a Linked List with random pointers](https://www.naukri.com/code360/problems/clone-a-linked-list-with-random-pointers_983604)
 
-## Dynamic Programming [3]
+## Dynamic Programming [6]
 
 1. **1D Dynamic Programming Problems**
     1. [Nth Fibonacci Number](https://www.naukri.com/code360/problems/nth-fibonacci-number_74156)
     2. [Count Ways To Reach The N-th Stairs](https://www.naukri.com/code360/problems/count-ways-to-reach-the-n-th-stairs_798650)
     3. [Frog Jump](https://www.naukri.com/code360/problems/frog-jump_3621012)
+    4. [Minimal Cost (Frog Jump With K Distances)](https://www.naukri.com/code360/problems/minimal-cost_8180930)
+    5. [Maximum Sum Of Non-adjacent Elements (House Robber)](https://www.naukri.com/code360/problems/maximum-sum-of-non-adjacent-elements_843261)
+    6. [House Robber II](https://www.naukri.com/code360/problems/house-robber-ii_839733)
 
 # Reference
 1. [Link To Problem List](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
