@@ -1,6 +1,6 @@
 # Linked List - Basic Problems (Helpers)
 
-1. [Introduction to Linked List](https://www.geeksforgeeks.org/problems/introduction-to-linked-list/1)
+## 1. [Introduction to Linked List](https://www.geeksforgeeks.org/problems/introduction-to-linked-list/1)
 ```java
 class Solution {
     static Node constructLL(int arr[]) {
@@ -21,7 +21,7 @@ class Solution {
 // Time complexity: O(n)
 // Space complexity: O(n)
 ```
-2. [Linked List Insertion](https://www.geeksforgeeks.org/problems/linked-list-insertion-1587115620/0)
+## 2. [Linked List Insertion](https://www.geeksforgeeks.org/problems/linked-list-insertion-1587115620/0)
 ```java
 class Solution {
     //Function to insert a node at the beginning of the linked list.
@@ -57,7 +57,7 @@ class Solution {
     // SC: O(1)
 }
 ```
-3. [Count Linked List Nodes](https://www.geeksforgeeks.org/problems/count-nodes-of-linked-list/0)
+## 3. [Count Linked List Nodes](https://www.geeksforgeeks.org/problems/count-nodes-of-linked-list/0)
 ```java
 class Solution {
     //Function to count nodes of a linked list.
@@ -76,7 +76,7 @@ class Solution {
     //SC: O(1)
 }
 ```
-4. [Search in Linked List](https://www.geeksforgeeks.org/problems/search-in-linked-list-1664434326/1)
+## 4. [Search in Linked List](https://www.geeksforgeeks.org/problems/search-in-linked-list-1664434326/1)
 ```java
 class Solution {
     static boolean searchKey(int n, Node head, int key) {
@@ -93,7 +93,7 @@ class Solution {
     //SC: O(1)
 }
 ```
-5. [Delete Node in a Linked List](https://www.geeksforgeeks.org/problems/delete-a-node-in-single-linked-list/1)
+## 5. [Delete Node in a Linked List](https://www.geeksforgeeks.org/problems/delete-a-node-in-single-linked-list/1)
 ```java
 class GfG {
     Node deleteNode(Node head, int x) {
@@ -116,7 +116,7 @@ class GfG {
     //TC: O(1)
 }
 ```
-6. [Middle of the Linked List](https://www.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1)
+## 6. [Middle of the Linked List](https://www.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1)
 ```java
 class Solution {
     int getMiddle(Node head) {
@@ -142,7 +142,7 @@ class Solution {
     //SC: O(1)
 }
 ```
-7. [Reverse Linked List](https://www.geeksforgeeks.org/problems/reverse-a-linked-list/1)
+## 7. [Reverse Linked List](https://www.geeksforgeeks.org/problems/reverse-a-linked-list/1)
 ```java
 class Solution {
     //Function to reverse a linked list.
