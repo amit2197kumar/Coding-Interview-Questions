@@ -24,6 +24,7 @@ class MyStack {
 	}
 }
 ```
+
 ### 2. [Implement Queue using array](https://www.geeksforgeeks.org/problems/implement-queue-using-array/1)
 ```java
 class MyQueue {
@@ -62,6 +63,7 @@ class MyQueue {
 	} 
 }
 ```
+
 ### 3. [Implement Stack using Queues](https://www.geeksforgeeks.org/problems/stack-using-two-queues/1)
 ```java
 class Queues {
@@ -94,6 +96,7 @@ class Queues {
     }
 }
 ```
+
 ### 4. [Implement Queue using Stacks](https://www.geeksforgeeks.org/problems/queue-using-two-stacks/1)
 ```java
 class StackQueue {
@@ -124,6 +127,7 @@ class StackQueue {
     }
 }
 ```
+
 ### 5. [Implement Stack using Linked List](https://www.geeksforgeeks.org/problems/implement-stack-using-linked-list/1)
 ```java
 class MyStack {
@@ -160,6 +164,7 @@ class MyStack {
     }
 }
 ```
+
 ### 6. [Implement Queue using Linked List](https://www.geeksforgeeks.org/problems/implement-queue-using-linked-list/1)
 ```java
 /*The structure of the node of the queue is
@@ -201,6 +206,7 @@ class MyQueue {
 	}
 }
 ```
+
 ### 7. [Valid Parentheses](https://www.geeksforgeeks.org/problems/parenthesis-checker2744/1)
 ```java
 class Solution {
@@ -227,6 +233,7 @@ class Solution {
     //SC: O(1)
 }
 ```
+
 ### 8. [Min Stack](https://www.geeksforgeeks.org/problems/get-minimum-element-from-stack/1)
 ```java
 class GfG {
