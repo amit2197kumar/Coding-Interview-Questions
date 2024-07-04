@@ -508,3 +508,114 @@ class Solution {
 }
 
 ```
+### 10. [K-Sized Subarray Maximum](https://www.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1)
+```java
+// This problem can be done via HEAP with TC of O(N*k)
+// Using Deque (DLL Queue) we can reduce TC to O(N)
+class Solution {
+    //Function to find maximum of each subarray of size k.
+    static ArrayList <Integer> max_of_subarrays(int arr[], int n, int k) {
+        
+        ArrayList<Integer> result = new ArrayList<>();
+        Deque<Integer> win = new ArrayDeque<>();
+        
+        for (int i=0; i<n; i++) {
+            // remove indices that are out of bound
+            while(win.size()>0 && win.peekFirst()<=i-k)
+                win.pollFirst();
+            
+            // remove indices whose corresponding values are less than nums[i]    
+            while (win.size() > 0 && arr[win.peekLast()]<arr[i])
+                win.pollLast();
+                
+            // add nums[i]
+            win.offerLast(i);
+            
+            // add to result
+            if (i>=k-1) {
+                result.add(arr[win.peekFirst()]);
+            }
+        }
+        return result;
+    }
+    // TC: O(n)
+    // SC: O(1)
+}
+```
+
+### 11. [Stock span problem](https://www.geeksforgeeks.org/problems/stock-span-problem-1587115621/1)
+```java
+class Solution {
+    // Function to calculate the span of stockâ€™s price for all n days.
+    public static int[] calculateSpan(int price[], int n) {
+        int[] leftGreater = leftGreater(price, n);
+        for (int i=0; i<n; i++) {
+            leftGreater[i] = i - leftGreater[i];
+        }
+        return leftGreater;
+    }
+    
+    public static int[] leftGreater(int arr[], int N) {
+        Stack<Integer> stack = new Stack<>();
+        int[] leftGreater = new int[N];
+        
+        for (int i=0; i<N; i++) {
+            while(!stack.isEmpty() && arr[stack.peek()]<=arr[i]) {
+                stack.pop();
+            }
+            
+            if (stack.isEmpty()) {
+                leftGreater[i] = -1;
+            } else {
+                leftGreater[i] = stack.peek();
+            }
+            
+            stack.push(i);
+        }
+        return leftGreater;
+    }
+    // TC: O(n)
+    // SC: O(n)
+}
+```
+### 12. [The Celebrity Problem](https://www.geeksforgeeks.org/problems/the-celebrity-problem/1)
+```java
+class Solution { 
+    //Function to find if there is a celebrity in the party or not.
+    //Understand that their can't be more then 1 celebrity ever
+    int celebrity(int M[][], int n) {
+    	Stack<Integer> stack = new Stack<>();
+    	for (int i=0; i<n; i++) {
+    	    stack.push(i);
+    	}
+    	
+    	while(stack.size()>=2) {
+    	    int i=stack.pop();
+    	    int j=stack.pop();
+    	    
+    	    if (M[i][j] == 1) {
+    	        //i knows j -> i can't be a celebrity
+    	        stack.push(j);
+    	    } else {
+    	        //i don't know j -> j can't be a celebrity
+    	        stack.push(i);
+    	    }
+    	}
+    	
+    	int potCel = stack.pop();
+    	for (int i=0; i<n; i++) {
+    	    if (i!=potCel) { // no need to check digonals
+    	    
+    	        if (M[i][potCel] !=1 || M[potCel][i] == 1) {
+    	            // i don't know potCel OR potCel knows i -> potCel is not a celebrity
+    	            return -1;
+    	        }
+    	    }
+    	}
+    	
+    	return potCel;
+    }
+    // TC: O(n)
+    // SC: O(n)
+}
+```
