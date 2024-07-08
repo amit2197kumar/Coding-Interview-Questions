@@ -1,28 +1,33 @@
 # Stack List Problems
 
-1. [Implement stack using array](https://www.geeksforgeeks.org/problems/implement-stack-using-array/1)
-2. [Implement Queue using array](https://www.geeksforgeeks.org/problems/implement-queue-using-array/1)
-3. [Implement Stack using Queues](https://www.geeksforgeeks.org/problems/stack-using-two-queues/1)
-4. [Implement Queue using Stacks](https://www.geeksforgeeks.org/problems/queue-using-two-stacks/1)
-5. [Implement Stack using Linked List](https://www.geeksforgeeks.org/problems/implement-stack-using-linked-list/1)
-6. [Implement Queue using Linked List](https://www.geeksforgeeks.org/problems/implement-queue-using-linked-list/1)
-7. [Valid Parentheses](https://www.geeksforgeeks.org/problems/parenthesis-checker2744/1)
-8. [Min Stack](https://www.geeksforgeeks.org/problems/get-minimum-element-from-stack/1)
-9. [Infix to Postfix](https://www.geeksforgeeks.org/problems/infix-to-postfix-1587115620/1)
-10. [Infix to Prefix](https://www.geeksforgeeks.org/convert-infix-prefix-notation/)
-11. [Prefix to Infix](https://www.geeksforgeeks.org/problems/prefix-to-infix-conversion/1)
-12. [Prefix to Postfix](https://www.geeksforgeeks.org/problems/prefix-to-postfix-conversion/1)
-13. [Postfix to Prefix](https://www.geeksforgeeks.org/problems/postfix-to-prefix-conversion/1)
-14. [Postfix to Infix](https://www.geeksforgeeks.org/problems/postfix-to-infix-conversion/1)
-15. [Next Greater Element](https://www.geeksforgeeks.org/problems/next-larger-element-1587115620/1)
-16. [Next Greater Element 2](https://www.geeksforgeeks.org/problems/next-greater-element-2/1)
-17. [Smallest number on left](https://www.geeksforgeeks.org/problems/smallest-number-on-left3403/1)
-18. [Asteroid Collision](https://www.geeksforgeeks.org/problems/asteroid-collision/1)
-19. [Remove K Digits](https://www.geeksforgeeks.org/problems/remove-k-digits/1)
-20. [Maximum Rectangular Area in a Histogram](https://www.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram-1587115620/1)
-21. [Maximal Rectangle](https://www.geeksforgeeks.org/problems/max-rectangle/1)
-22. [Sum of subarray minimum](https://www.geeksforgeeks.org/problems/sum-of-subarray-minimum/1)
-23. [Sum of Subarray Ranges](https://www.geeksforgeeks.org/problems/sum-of-subarray-ranges/1)
-24. [K-Sized Subarray Maximum](https://www.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1)
-25. [Stock span problem](https://www.geeksforgeeks.org/problems/stock-span-problem-1587115621/1)
-26. [The Celebrity Problem](https://www.geeksforgeeks.org/problems/the-celebrity-problem/1)
+1. Implement stack using an array 🟢 [[gfg](https://www.geeksforgeeks.org/problems/implement-stack-using-array/1)]
+2. Implement Queue using an array 🟢 [[gfg](https://www.geeksforgeeks.org/problems/implement-queue-using-array/1)]
+3. Implement Stack using Queues 🟢 [[gfg](https://www.geeksforgeeks.org/problems/stack-using-two-queues/1)]
+4. Implement Queue using Stacks 🟢 [[gfg](https://www.geeksforgeeks.org/problems/queue-using-two-stacks/1)]
+5. Implement Stack using Linked List 🟢 [[gfg](https://www.geeksforgeeks.org/problems/implement-stack-using-linked-list/1)]
+6. Implement Queue using Linked List 🟢 [[gfg](https://www.geeksforgeeks.org/problems/implement-queue-using-linked-list/1)]
+7. Valid Parentheses 🟢 [[leetcode](https://leetcode.com/problems/valid-parentheses/description/)] [[code360](https://www.naukri.com/code360/problems/valid-parenthesis_795104)] [[gfg](https://www.geeksforgeeks.org/problems/parenthesis-checker2744/1)]
+8. Prefix to Infix 🟢 [[gfg](https://www.geeksforgeeks.org/problems/prefix-to-infix-conversion/1)]
+9. Prefix to Postfix 🟢 [[gfg](https://www.geeksforgeeks.org/problems/prefix-to-postfix-conversion/1)]
+10. Postfix to Prefix 🟢 [[gfg](https://www.geeksforgeeks.org/problems/postfix-to-prefix-conversion/1)]
+11. Postfix to Infix 🟢 [[gfg](https://www.geeksforgeeks.org/problems/postfix-to-infix-conversion/1)]
+12. Infix to Postfix 🟡 [[gfg](https://www.geeksforgeeks.org/problems/infix-to-postfix-1587115620/1)]
+13. Infix to Prefix 🟡 [[gfg](https://www.geeksforgeeks.org/convert-infix-prefix-notation/)]
+14. Min Stack 🟡 [[leetcode](https://leetcode.com/problems/min-stack/description/)] [[code360](https://www.naukri.com/code360/problems/min-stack_3843991)] [[gfg](https://www.geeksforgeeks.org/problems/get-minimum-element-from-stack/1)]
+15. Next Greater Element 🟢 [[leetcode](https://leetcode.com/problems/next-greater-element-i/description/)] [[code360](https://www.naukri.com/code360/problems/next-greater-element_670312)] [[gfg](https://www.geeksforgeeks.org/problems/next-larger-element-1587115620/1)]
+16. Next Greater Element 2 🟢 [[leetcode](https://leetcode.com/problems/next-greater-element-ii/description/)] [[code360](https://www.naukri.com/code360/problems/next-greater-element-ii_6212757)] [[gfg](https://www.geeksforgeeks.org/problems/next-greater-element-2/1)]
+17. The smallest number on the left 🟢 [[gfg](https://www.geeksforgeeks.org/problems/smallest-number-on-left3403/1)]
+18. Asteroid Collision 🔴 [[leetcode](https://leetcode.com/problems/asteroid-collision/description/)] [[code360](https://www.naukri.com/code360/problems/asteroid-collision_977232)] [[gfg](https://www.geeksforgeeks.org/problems/asteroid-collision/1)]
+19. Remove K Digits 🔴 [[leetcode](https://leetcode.com/problems/remove-k-digits/description/)] [[code360](https://www.naukri.com/code360/problems/remove-k-digits_1461221)] [[gfg](https://www.geeksforgeeks.org/problems/remove-k-digits/1)]
+20. Maximum Rectangular Area in a Histogram 🔴 [[leetcode](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)] [[code360](https://www.naukri.com/code360/problems/largest-rectangle-in-a-histogram_1058184)] [[gfg](https://www.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram-1587115620/1)]
+21. Maximal Rectangle 🔴 [[leetcode](https://leetcode.com/problems/maximal-rectangle/description/)] [[code360](https://www.naukri.com/code360/problems/maximum-size-rectangle-sub-matrix-with-all-1-s_893017)] [[gfg](https://www.geeksforgeeks.org/problems/max-rectangle/1)]
+22. The sum of the subarray minimum 🔴 [[leetcode](https://leetcode.com/problems/sum-of-subarray-minimums/description/)] [[code360](https://www.naukri.com/code360/problems/find-minimum-sum-subarray-of-given-size_873368)] [[gfg](https://www.geeksforgeeks.org/problems/sum-of-subarray-minimum/1)]
+23. The sum of Subarray Ranges 🔴 [[leetcode](https://leetcode.com/problems/sum-of-subarray-ranges/description/)] [[code360](https://www.naukri.com/code360/problems/subarray-with-given-sum_842487)] [[gfg](https://www.geeksforgeeks.org/problems/sum-of-subarray-ranges/1)]
+24. K-Sized Subarray Maximum 🔴 [[leetcode](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/description/)] [[code360](https://www.naukri.com/code360/problems/maximum-of-all-subarrays-of-size-k_1170789)] [[gfg](https://www.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1)]
+25. Stock span problem 🟡 [[leetcode](https://leetcode.com/problems/online-stock-span/description/)] [[code360](https://www.naukri.com/code360/problems/stock-span_5243295)] [[gfg](https://www.geeksforgeeks.org/problems/stock-span-problem-1587115621/1)]
+26. The Celebrity Problem 🟡 [[leetcode](https://www.lintcode.com/problem/645/)] [[code360](https://www.naukri.com/code360/problems/the-celebrity-problem_982769)] [[gfg](https://www.geeksforgeeks.org/problems/the-celebrity-problem/1)]
+27. Daily Temperatures [[leetcode](https://leetcode.com/problems/daily-temperatures/description/)]
+28. 132 Pattern [[leetcode](https://leetcode.com/problems/132-pattern/description/)]
+29. Trapping Rain Water [[leetcode](https://leetcode.com/problems/trapping-rain-water/description/)] [[code360](https://www.naukri.com/code360/problems/trapping-rainwater_630519)] [[gfg](https://www.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1)]
+30. Number of Visible People in a Queue [[leetcode](https://leetcode.com/problems/number-of-visible-people-in-a-queue/description/)] [[code360](https://www.naukri.com/code360/problems/order-of-people-heights_1170764)]
+31. Buildings With an Ocean View [[leetcode](https://leetcode.com/problems/buildings-with-an-ocean-view/description/)] [[solution](https://leetcode.ca/2021-04-14-1762-Buildings-With-an-Ocean-View/)]

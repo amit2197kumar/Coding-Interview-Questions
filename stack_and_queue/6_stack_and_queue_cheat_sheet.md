@@ -3,6 +3,7 @@
 ## A must read Articles
 1. [A comprehensive guide and template for monotonic stack based problems](https://leetcode.com/discuss/study-guide/2347639/A-comprehensive-guide-and-template-for-monotonic-stack-based-problems)
 2. [A general approach to Stack problems in C++ | Generic Template](https://leetcode.com/discuss/study-guide/3168516/A-general-approach-to-stack-problems-in-C%2B%2B-or-Generic-Template)
+3. [Introduction to monotonic stacks and queues (with LeetCode problems and more)](https://dwf.dev/blog/2024/04/26/2024/monotonic-stacks-queues/)
 
 ## Corner cases
 1. Always check if the stack/queue is empty before processing over it.
